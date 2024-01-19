@@ -1,4 +1,4 @@
-Trivia Rich
+# Trivia Rich
 
 iOS: https://apps.apple.com/tr/app/trivia-rich/id1613152275
 
